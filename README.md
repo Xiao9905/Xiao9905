@@ -10,7 +10,7 @@ I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge
   * [GLM-130B](https://github.com/THUDM/GLM-130B): An Open Bilingual (Enligsh & Chinese) Pre-Trained Model with 130 billion parameters based on [GLM](https://github.com/THUDM/GLM), better than GPT-3 175B on LAMBADA and MMLU; fast inference on a single A100 (40G * 8) or V100 server (32G * 8)
   * [SelfKG](https://github.com/THUDM/SelfKG): accurate entity alignment without supervision, **Best Paper Nominee** in WWW 2022.
   * [Self-supervised Learning: Generative or Contrastive](https://arxiv.org/pdf/2006.08218.pdf): one of the most cited survey on self-supervised learning
-- 🤔 Hope to build a web-scale knowledge system via both Big Pre-trained Model and Symbolic Graph Reasoning.
+- 🤔 Hope to build a web-scale knowledge system via both [Big Pre-trained Model](https://github.com/THUDM/GLM-130B) and Symbolic Graph Reasoning.
 - 💬 Feel free to drop me an email for:
   * Any form of collaboration
   * Any issue about my works or code
