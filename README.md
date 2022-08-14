@@ -26,8 +26,7 @@ I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge
   * [Self-supervised Learning: Generative or Contrastive](https://arxiv.org/pdf/2006.08218.pdf): one of the most cited survey on self-supervised learning
   
   </details>
-  
-- 🤔 Consistently dedicated to building a web-scale knowledge system via both [Large Pre-trained Model](https://github.com/THUDM/GLM-130B) and [Symbolic Graph Reasoning](https://github.com/THUDM/kgTransformer).
+- 🤔 Dedicated to building web-scale knowledge systems via both [Large Pre-trained Model](https://github.com/THUDM/GLM-130B) and [Symbolic Graph Reasoning](https://github.com/THUDM/kgTransformer).
 - 💬 Feel free to drop me an email for:
   * Any form of collaboration
   * Any issue about my works or code
