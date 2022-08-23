@@ -17,7 +17,7 @@ I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge
   <details><summary><b>Knowledge Graph Construction and Reasoning</b></summary>
   
   * [SelfKG](https://github.com/THUDM/SelfKG): self-supervised alignment can be comparable to supervised ones, ***Best Paper Nominee*** in WWW 2022.
-  * [kgTransformer](https://github.com/THUDM/kgTransformer): pre-training knowledge graph transformers for complex logical reasoning; an incredible use of Mixture-of-Experts (MoE).
+  * [kgTransformer](https://github.com/THUDM/kgTransformer): pre-training knowledge graph transformers for complex logical reasoning; an interesting use of Mixture-of-Experts (MoE).
   
   </details>
   
