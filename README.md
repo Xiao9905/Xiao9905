@@ -30,3 +30,5 @@ I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge
 - 💬 Feel free to drop me an email for:
   * Any form of collaboration
   * Any issue about my works or code
+  * For those who wanna join GLM-130B's wechat group
+    + please add my working wechat `shawliu99`
