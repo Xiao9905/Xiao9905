@@ -2,10 +2,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiao9905.xiao9905&left_color=green&right_color=red)
 
-```diff
-- If you are looking for join GLM-130B's wechat group, please add my working wechat `shawliu99`
-```
-
 I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge Engineering Group (KEG).
 
 - 🔭 Interested in Machine Learning, Data Mining, NLP and Knowledge Graph.
