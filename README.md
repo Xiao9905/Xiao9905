@@ -30,3 +30,4 @@ I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge
 - 💬 Feel free to drop me an email for:
   * Any form of collaboration
   * Any issue about my works or code
+  * Interesting ideas to discuss or just chatting
