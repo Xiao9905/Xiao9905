@@ -4,7 +4,7 @@
 
 I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge Engineering Group (KEG).
 
-**I am looking for 2024 Fall PhD position (US) and potential research internships in 2023 Spring and Summer (US/Europe). Please contact me if you could offer any good opportunity!**
+**[2022.11] I am looking for 2024 Fall PhD position (US) and potential research internships in 2023 Spring and Summer (US/Europe). I would really appreciate it if you could offer any good opportunity!**
 
 - 🔭 Interested in Machine Learning, Data Mining, NLP and Knowledge Graph.
 - 🌱 Find my up-to-date publication list in [**Google Scholar**](https://scholar.google.com/citations?user=VKI8EhUAAAAJ)! Some of my proud works:
