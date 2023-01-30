@@ -7,7 +7,7 @@ I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge
 - 🔭 Interested in Machine Learning, Data Mining, NLP and Knowledge Graph.
 - 🌱 Find my up-to-date publication list in [**Google Scholar**](https://scholar.google.com/citations?user=VKI8EhUAAAAJ)! Some of my proud works:
   
-  <details><summary><b>Large-scale Language Model Pre-training and Transfer Learning</b></summary>
+  <details><summary><b>Large Language Model (LLM) Pre-training and Transfer Learning</b></summary>
   
   * [P-tuning](https://github.com/THUDM/P-tuning) and [P-tuning v2 (ACL'22)](https://github.com/THUDM/P-tuning-v2): pioneer works on ***prompt tuning***
   * [GLM-130B (ICLR'23)](https://github.com/THUDM/GLM-130B): probably the best open-sourced LLM so far; an open bilingual (Enligsh & Chinese) pre-trained model with 130 billion parameters based on [GLM (ACL'22)](https://github.com/THUDM/GLM); better than GPT-3 175B on LAMBADA and MMLU.
