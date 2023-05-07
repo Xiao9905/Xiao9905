@@ -14,7 +14,7 @@ I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge
   * [ChatGLM-6B](https://github.com/THUDM): an open bilingual dialogue language model that requires only 6GB to run. Receiving [![GitHub stars](https://badgen.net/github/stars/THUDM/ChatGLM-6B)](https://GitHub.com/THUDM/ChatGLM-6B/stargazers/).
   </details>
   
-  <details><summary><b>Alignment of Generative Models to Human Preference</b></summary>
+  <details><summary><b>Evaluation and Assessment of Generative Models</b></summary>
   
   * [ImageReward](https://github.com/THUDM/ImageReward): the first general-purpose text-to-image human preference reward model (RM) for RLHF, outperforming CLIP/BLIP/Aesthetic by 30% in terms of human preference prediction.
   
