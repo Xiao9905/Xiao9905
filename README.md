@@ -1,6 +1,6 @@
 ### Hi, welcome to my Github 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xiao9905.xiao9905&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiao9905.xiao9905&left_color=green&right_color=red) -->
 
 I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge Engineering Group (KEG).
 
