@@ -12,6 +12,7 @@ I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge
   * [P-tuning](https://github.com/THUDM/P-tuning) and [P-tuning v2 (ACL'22)](https://github.com/THUDM/P-tuning-v2): pioneer works on ***prompt tuning***
   * [GLM-130B (ICLR'23)](https://github.com/THUDM/GLM-130B): probably the best open-sourced LLM so far; an open bilingual (Enligsh & Chinese) pre-trained model with 130 billion parameters based on [GLM (ACL'22)](https://github.com/THUDM/GLM); better than GPT-3 175B on LAMBADA and MMLU.
   * [ChatGLM-6B](https://github.com/THUDM): an open bilingual dialogue language model that requires only 6GB to run. Receiving [![GitHub stars](https://badgen.net/github/stars/THUDM/ChatGLM-6B)](https://GitHub.com/THUDM/ChatGLM-6B/stargazers/).
+  * [WebGLM (KDD'23)](https://github.com/THUDM/WebGLM): an efficient web-enhanced question answering system based on [GLM-10B](https://github.com/THUDM/GLM), outperforming WebGPT-13B and approaching WebGPT-175B performance in human evaluation.
   </details>
   
   <details><summary><b>Evaluation and Assessment of Generative Models</b></summary>
