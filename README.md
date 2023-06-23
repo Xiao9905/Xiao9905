@@ -2,7 +2,7 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiao9905.xiao9905&left_color=green&right_color=red) -->
 
-I am Xiao Liu, a second-year master CS student in Tsinghua University, Knowledge Engineering Group (KEG).
+I am Xiao Liu, a second-year master CS student in Tsinghua University, advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) in Knowledge Engineering Group (KEG).
 
 - 🔭 Interested in Machine Learning, Data Mining, NLP and Knowledge Graph.
 - 🌱 Find my up-to-date publication list in [**Google Scholar**](https://scholar.google.com/citations?user=VKI8EhUAAAAJ)! Some of my proud leading works:
