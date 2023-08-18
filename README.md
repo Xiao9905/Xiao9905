@@ -22,18 +22,14 @@ I am Xiao Liu, a second-year master CS student in Tsinghua University.
   
   </details>
   
-  <details><summary><b>Knowledge Graph Construction and Reasoning</b></summary>
-  
-  * [SelfKG (WWW'22)](https://github.com/THUDM/SelfKG): self-supervised alignment can be comparable to supervised ones, ***Best Paper Nominee*** in WWW 2022.
-  * [kgTransformer (KDD'22)](https://github.com/THUDM/kgTransformer): pre-training knowledge graph transformers for complex logical reasoning
-  
-  </details>
-  
-  <details><summary><b>Self-supervised Learning and its Applications</b></summary>
-  
+  <details><summary><b>Self-supervised Learning and Reasoning</b></summary>
+
   * [Self-supervised Learning: Generative or Contrastive (TKDE'21)](https://arxiv.org/pdf/2006.08218.pdf): one of the most cited survey on self-supervised learning
+  * [SelfKG (WWW'22)](https://github.com/THUDM/SelfKG): self-supervised alignment can be comparable to supervised ones, ***Best Paper Nominee*** in WWW 2022.
+  * [kgTransformer (KDD'22)](https://github.com/THUDM/kgTransformer): pre-training knowledge graph transformers with mixture-of-experts (MoE) for complex logical reasoning
   
   </details>
+  
 - 🤔 Dedicated to building web-scale knowledge systems via both [Large Pre-trained Model](https://github.com/THUDM/GLM-130B) and [Symbolic Graph Reasoning](https://github.com/THUDM/kgTransformer).
 - 💬 Feel free to drop me an email for:
   * Any form of collaboration
