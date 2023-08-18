@@ -16,10 +16,9 @@ I am Xiao Liu, a second-year master CS student in Tsinghua University.
   </details>
   
   <details><summary><b>Evaluation and Assessment of Generative Models</b></summary>
-  
+    
   * [ImageReward](https://github.com/THUDM/ImageReward): the first general-purpose text-to-image human preference reward model (RM) for RLHF, outperforming CLIP/BLIP/Aesthetic by 30% in terms of human preference prediction.
   * [AgentBench](https://github.com/THUDM/AgentBench): the first systematic multi-dimensional benchmark to *evaluate LLMs as Agents* in 8 distinct environments deriving from real-world practical missions.
-  
   </details>
   
   <details><summary><b>Self-supervised Learning and Reasoning</b></summary>
@@ -27,10 +26,9 @@ I am Xiao Liu, a second-year master CS student in Tsinghua University.
   * [Self-supervised Learning: Generative or Contrastive (TKDE'21)](https://arxiv.org/pdf/2006.08218.pdf): one of the most cited survey on self-supervised learning
   * [SelfKG (WWW'22)](https://github.com/THUDM/SelfKG): self-supervised alignment can be comparable to supervised ones, ***Best Paper Nominee*** in WWW 2022.
   * [kgTransformer (KDD'22)](https://github.com/THUDM/kgTransformer): pre-training knowledge graph transformers with mixture-of-experts (MoE) for complex logical reasoning
-  
   </details>
   
-- 🤔 Dedicated to building web-scale knowledge systems via both [Large Pre-trained Model](https://github.com/THUDM/GLM-130B) and [Symbolic Graph Reasoning](https://github.com/THUDM/kgTransformer).
+- 🤔 Dedicated to building next-generation of AI systems via both [Large Pre-trained Model](https://github.com/THUDM/GLM-130B) and [Symbolic Agent Reasoning](https://github.com/THUDM/kgTransformer).
 - 💬 Feel free to drop me an email for:
   * Any form of collaboration
   * Any issue about my works or code
