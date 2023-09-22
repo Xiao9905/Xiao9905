@@ -17,7 +17,7 @@ I am Xiao Liu, a third-year graduate student in Tsinghua University.
   
   <details><summary><b>Evaluation and Assessment of Generative Models</b></summary>
     
-  * [ImageReward](https://github.com/THUDM/ImageReward): the first general-purpose text-to-image human preference reward model (RM) for RLHF, outperforming CLIP/BLIP/Aesthetic by 30% in terms of human preference prediction.
+  * [ImageReward (NeurIPS'23)](https://github.com/THUDM/ImageReward): the first general-purpose text-to-image human preference reward model (RM) for RLHF, outperforming CLIP/BLIP/Aesthetic by 30% in terms of human preference prediction.
   * [AgentBench](https://github.com/THUDM/AgentBench): the first systematic multi-dimensional benchmark to *evaluate LLMs as Agents* in 8 distinct environments deriving from real-world practical missions. Find LLM-as-Agent demos at [llmbench.ai](https://llmbench.ai)!
   * [LongBench](https://github.com/THUDM/LongBench): a bilingual, multitask benchmark for long context understanding.
   </details>
