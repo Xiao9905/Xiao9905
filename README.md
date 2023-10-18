@@ -2,7 +2,7 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiao9905.xiao9905&left_color=green&right_color=red) -->
 
-I am Xiao Liu, a third-year graduate student in Tsinghua University.
+I am Xiao Liu, a third-year PhD student in Tsinghua University.
 
 - 🔭 Interested in Machine Learning, Data Mining, NLP and Knowledge Graph.
 - 🌱 Find my up-to-date publication list in [**Google Scholar**](https://scholar.google.com/citations?user=VKI8EhUAAAAJ)! Some of my proud leading works:
