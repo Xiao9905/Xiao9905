@@ -18,7 +18,7 @@ I am Xiao Liu, a third-year PhD student in Tsinghua University since 2021.
   <details><summary><b>Alignment and Scalable Oversights over LLMs</b></summary>
 
   * [BPO (Black-box Prompt Optimization)](https://github.com/thu-coai/bpo): a novel direction to align LLMs via preference-aware prompt optimization. Improving ChatGPT, Claude, LLaMA on human preference's win rates by 20%+ without training them.
-  * [AlignBench](https://github.com/THUDM/AlignBench): the first comprehensive benchmark on evaluating LLMs' Chinese alignment, deriving from ChatGLM's online real scenarios. Submit your LLMs to acquire CritiqueLLM's judgement on Alignment on [llmbench.ai/align](https://llmbench.ai/align)!
+  * [AlignBench](https://github.com/THUDM/AlignBench): the first comprehensive benchmark on evaluating LLMs' Chinese alignment, deriving from ChatGLM's online real scenarios. Submit your LLMs to acquire CritiqueLLM's judgement on AlignBench on [llmbench.ai/align](https://llmbench.ai/align)!
   * [CritiqueLLM](https://arxiv.org/abs/2311.18702): scaling LLM-as-Critic for scalable oversights on LLM alignment. A series of strong critqiue LLMs ranging from 6B to 66B.
   </details>
   
