@@ -18,14 +18,14 @@ I am Xiao Liu, a third-year PhD student in Tsinghua University since 2021.
   <details><summary><b>Alignment and Scalable Oversights over LLMs</b></summary>
 
   * [BPO (Black-box Prompt Optimization)](https://github.com/thu-coai/bpo): a novel direction to align LLMs via preference-aware prompt optimization. Improving ChatGPT, Claude, LLaMA on human preference's win rates by 20%+ without training them.
-  * [AlignBench](https://github.com/THUDM/AlignBench): the first comprehensive benchmark on evaluating LLMs' Chinese alignment, deriving from ChatGLM's online real scenarios.
+  * [AlignBench](https://github.com/THUDM/AlignBench): the first comprehensive benchmark on evaluating LLMs' Chinese alignment, deriving from ChatGLM's online real scenarios. Submit your LLMs to acquire CritiqueLLM's judgement on Alignment on [llmbench.ai/align](https://llmbench.ai/align)!
   * [CritiqueLLM](https://arxiv.org/abs/2311.18702): scaling LLM-as-Critic for scalable oversights on LLM alignment. A series of strong critqiue LLMs ranging from 6B to 66B.
   </details>
   
   <details><summary><b>Evaluation and Assessment of Generative Models (LLMs, Diffusion, ...)</b></summary>
     
   * [ImageReward (NeurIPS'23)](https://github.com/THUDM/ImageReward): the first general-purpose text-to-image human preference reward model (RM) for RLHF, outperforming CLIP/BLIP/Aesthetic by 30% in terms of human preference prediction.
-  * [AgentBench](https://github.com/THUDM/AgentBench): the first systematic multi-dimensional benchmark to *evaluate LLMs as Agents* in 8 distinct environments deriving from real-world practical missions. Find LLM-as-Agent demos at [llmbench.ai](https://llmbench.ai)!
+  * [AgentBench](https://github.com/THUDM/AgentBench): the first systematic multi-dimensional benchmark to *evaluate LLMs as Agents* in 8 distinct environments deriving from real-world practical missions. Find LLM-as-Agent demos at [llmbench.ai/agent](https://llmbench.ai/agent)!
   * [LongBench](https://github.com/THUDM/LongBench): a bilingual, multitask benchmark for long context understanding.
   </details>
   
