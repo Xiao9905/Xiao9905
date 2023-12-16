@@ -15,7 +15,7 @@ I am Xiao Liu, a third-year PhD student in Tsinghua University since 2021.
   * [WebGLM (KDD'23)](https://github.com/THUDM/WebGLM): an efficient web-enhanced question answering system based on [GLM-10B](https://github.com/THUDM/GLM), outperforming WebGPT-13B and approaching WebGPT-175B performance in human evaluation.
   </details>
 
-  <details><summary><b>Alignment and Scalable Oversights over LLMs</b></summary></details>
+  <details><summary><b>Alignment and Scalable Oversights over LLMs</b></summary>
 
   * [BPO (Black-box Prompt Optimization)](https://github.com/thu-coai/bpo): a novel direction to align LLMs without training them but preference-aware prompt optimization.
   * [AlignBench](https://github.com/THUDM/AlignBench): the first comprehensive benchmark on evaluating LLMs' Chinese alignment, deriving from ChatGLM's online real scenarios.
