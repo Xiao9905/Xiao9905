@@ -4,7 +4,7 @@
 
 I am Xiao Liu, a third-year PhD student in Tsinghua University since 2021.
 
-- 🔭 Interested in Machine Learning, Data Mining, NLP and Knowledge Graph.
+- 🔭 Interested in Machine Learning, Natural Language Processing, and Foundation Models.
 - 🌱 Find my up-to-date publication list in [**Google Scholar**](https://scholar.google.com/citations?user=VKI8EhUAAAAJ)! Some of my proud leading works:
   
   <details><summary><b>Large Language Model (LLM) Training and Prompt Learning</b></summary>
