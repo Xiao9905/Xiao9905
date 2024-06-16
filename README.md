@@ -18,7 +18,7 @@ I am Xiao Liu, a third-year PhD student in Tsinghua University since 2021.
   
   <details><summary><b>Foundational Agents For Real-world Challenging Missions</b></summary>
     
-  * [AgentBench (ICLR'24)](https://github.com/THUDM/AgentBench): the first systematic multi-dimensional benchmark to *evaluate LLMs as Agents* in 8 distinct environments deriving from real-world practical missions. Find LLM-as-Agent demos at [llmbench.ai/agent](https://llmbench.ai/agent)!
+  * [AgentBench (ICLR'24)](https://github.com/THUDM/AgentBench): the first systematic multi-dimensional benchmark to *evaluate LLMs as Agents* in 8 distinct environments deriving from real-world practical missions.
   * [AutoWebGLM (KDD'24)](https://github.com/THUDM/AutoWebGLM): a strong web navigating agent constructed upon ChatGLM-3-6B, outperforming prompted GPT-4 on Mind2Web, WebArena, and our constructed new dataset AutoWebBench.
   </details>
 
@@ -26,7 +26,7 @@ I am Xiao Liu, a third-year PhD student in Tsinghua University since 2021.
     
   * [ImageReward (NeurIPS'23)](https://github.com/THUDM/ImageReward): the first general-purpose text-to-image human preference reward model (RM) for RLHF, outperforming CLIP/BLIP/Aesthetic by 30% in terms of human preference prediction.
   * [BPO (Black-box Prompt Optimization, ACL'24)](https://github.com/thu-coai/bpo): a novel direction to align LLMs via preference-aware prompt optimization. Improving ChatGPT, Claude, LLaMA on human preference's win rates by 20%+ without training them.
-  * [AlignBench (ACL'24)](https://github.com/THUDM/AlignBench): the first comprehensive benchmark on evaluating LLMs' Chinese alignment, deriving from ChatGLM's online real scenarios. Submit your LLMs to acquire CritiqueLLM's judgement on AlignBench on [llmbench.ai/align](https://llmbench.ai/align)!
+  * [AlignBench (ACL'24)](https://github.com/THUDM/AlignBench): the first comprehensive benchmark on evaluating LLMs' Chinese alignment, deriving from ChatGLM's online real scenarios. 
   </details>
   
   <details><summary><b>Self-supervised Learning and Reasoning</b></summary>
