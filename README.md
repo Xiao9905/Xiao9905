@@ -27,7 +27,6 @@ I am Xiao Liu, a third-year PhD student in Tsinghua University since 2021.
   * [ImageReward (NeurIPS'23)](https://github.com/THUDM/ImageReward): the first general-purpose text-to-image human preference reward model (RM) for RLHF, outperforming CLIP/BLIP/Aesthetic by 30% in terms of human preference prediction.
   * [BPO (Black-box Prompt Optimization, ACL'24)](https://github.com/thu-coai/bpo): a novel direction to align LLMs via preference-aware prompt optimization. Improving ChatGPT, Claude, LLaMA on human preference's win rates by 20%+ without training them.
   * [AlignBench (ACL'24)](https://github.com/THUDM/AlignBench): the first comprehensive benchmark on evaluating LLMs' Chinese alignment, deriving from ChatGLM's online real scenarios. Submit your LLMs to acquire CritiqueLLM's judgement on AlignBench on [llmbench.ai/align](https://llmbench.ai/align)!
-  * [CritiqueLLM (ACL'24)](https://arxiv.org/abs/2311.18702): scaling LLM-as-Critic for scalable oversights on LLM alignment. A series of strong critqiue LLMs ranging from 6B to 66B.
   </details>
   
   <details><summary><b>Self-supervised Learning and Reasoning</b></summary>
