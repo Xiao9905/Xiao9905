@@ -20,6 +20,7 @@ I am Xiao Liu, a fourth-year PhD student in Tsinghua University since 2021.
     
   * [AgentBench (ICLR'24)](https://github.com/THUDM/AgentBench): the first systematic multi-dimensional benchmark to *evaluate LLMs as Agents* in 8 distinct environments deriving from real-world practical missions.
   * [AutoWebGLM (KDD'24)](https://github.com/THUDM/AutoWebGLM): a strong web navigating agent constructed upon ChatGLM-3-6B, outperforming prompted GPT-4 on Mind2Web, WebArena, and our constructed new dataset AutoWebBench.
+  * [VisualAgentBench](https://github.com/THUDM/VisualAgentBench): a comprehensive framework to train and test Large Multimodal Models (LMMs) to serve as visual foundation agents.
   </details>
 
   <details><summary><b>Alignment and Scalable Oversights over LLMs and Diffusers</b></summary>
