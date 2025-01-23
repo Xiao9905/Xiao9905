@@ -19,8 +19,8 @@ I am Xiao Liu, a fourth-year PhD student in Tsinghua University since 2021.
     
   * [AgentBench (ICLR'24)](https://github.com/THUDM/AgentBench): the first systematic multi-dimensional benchmark to *evaluate LLMs as Agents* in 8 distinct environments deriving from real-world practical missions.
   * [AutoWebGLM (KDD'24)](https://github.com/THUDM/AutoWebGLM): a strong web navigating agent constructed upon ChatGLM-3-6B, outperforming prompted GPT-4 on Mind2Web, WebArena, and our constructed new dataset AutoWebBench.
-  * [VisualAgentBench](https://github.com/THUDM/VisualAgentBench): a comprehensive framework to train and test Large Multimodal Models (LMMs) to serve as visual foundation agents.
-  * [WebRL](https://github.com/THUDM/WebRL): self-evolving online curriculum RL transform open LLMs to outperform GPT-4-Turbo on Web Agent tasks by 160%.
+  * [VisualAgentBench (ICLR'25)](https://github.com/THUDM/VisualAgentBench): a comprehensive framework to train and test Large Multimodal Models (LMMs) to serve as visual foundation agents.
+  * [WebRL (ICLR'25)](https://github.com/THUDM/WebRL): self-evolving online curriculum RL transform open LLMs to outperform GPT-4-Turbo on Web Agent tasks by 160%.
   * [AndroidLab](https://github.com/THUDM/Android-Lab): training and systematic benchmarking android autonomous agents.
   * [AutoGLM](https://xiao9905.github.io/AutoGLM/): autonomous foundation agents for GUIs, the first Phone Use and Web Browser Use agent family.
   </details>
@@ -30,7 +30,7 @@ I am Xiao Liu, a fourth-year PhD student in Tsinghua University since 2021.
   * [ImageReward (NeurIPS'23)](https://github.com/THUDM/ImageReward): the first general-purpose text-to-image human preference reward model (RM) for RLHF, outperforming CLIP/BLIP/Aesthetic by 30% in terms of human preference prediction.
   * [BPO (Black-box Prompt Optimization, ACL'24)](https://github.com/thu-coai/bpo): a novel direction to align LLMs via preference-aware prompt optimization. Improving ChatGPT, Claude, LLaMA on human preference's win rates by 20%+ without training them.
   * [AlignBench (ACL'24)](https://github.com/THUDM/AlignBench): the first comprehensive benchmark on evaluating LLMs' Chinese alignment, deriving from ChatGLM's online real scenarios. Adopted by top Chinese LLMs (ChatGLM, Qwen, DeepSeek, Yi, Baichuan, Abab, and etc.)
-  * [SPaR](https://github.com/thu-coai/SPaR): Self-Play with Tree-Search Refinement to Improve Instruction-Following in Large Language Models
+  * [SPaR (ICLR'25)](https://github.com/thu-coai/SPaR): Self-Play with Tree-Search Refinement to Improve Instruction-Following in Large Language Models
   </details>
   
   <details><summary><b>Self-supervised Learning and Reasoning</b></summary>
