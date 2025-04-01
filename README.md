@@ -40,7 +40,7 @@ I am Xiao Liu, a fourth-year PhD student in Tsinghua University since 2021, expe
   * [kgTransformer (KDD'22)](https://github.com/THUDM/kgTransformer): pre-training knowledge graph transformers with mixture-of-experts (MoE) for complex logical reasoning
   </details>
   
-- 🤔 Dedicated to building next-generation of AI systems via both [Large Pre-trained Model](https://github.com/THUDM/GLM-130B) and [Symbolic Agent Reasoning](https://github.com/THUDM/kgTransformer).
+- 🤔 Dedicated to building next-generation of AI systems via both [Large Pre-trained Model](https://github.com/THUDM/GLM-130B) and [Symbolic Agent Reasoning](https://xiao9905.github.io/AutoGLM).
 - 💬 Feel free to drop me an email for:
   * Any form of collaboration
   * Any issue about my works or code
