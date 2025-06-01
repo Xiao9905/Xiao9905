@@ -21,7 +21,7 @@ I am Xiao Liu, a fourth-year PhD student in Tsinghua University since 2021, expe
   * [AutoWebGLM (KDD'24)](https://github.com/THUDM/AutoWebGLM): a strong web navigating agent constructed upon ChatGLM-3-6B, outperforming prompted GPT-4 on Mind2Web, WebArena, and our constructed new dataset AutoWebBench.
   * [VisualAgentBench (ICLR'25)](https://github.com/THUDM/VisualAgentBench): a comprehensive framework to train and test Large Multimodal Models (LMMs) to serve as visual foundation agents.
   * [WebRL (ICLR'25)](https://github.com/THUDM/WebRL): self-evolving online curriculum RL transform open LLMs to outperform GPT-4-Turbo on Web Agent tasks by 160%.
-  * [AndroidLab](https://github.com/THUDM/Android-Lab): training and systematic benchmarking android autonomous agents.
+  * [AndroidLab (ACL'25)](https://github.com/THUDM/Android-Lab): training and systematic benchmarking android autonomous agents.
   * [AutoGLM](https://xiao9905.github.io/AutoGLM/): autonomous foundation agents for GUIs, the first Phone Use and Web Browser Use agent family.
   </details>
 
